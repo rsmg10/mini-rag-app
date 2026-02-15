@@ -6,6 +6,10 @@ this is a minimal imple of rag model for question ansering
 - Python 3.8 or later
 
 #### Install python and mini conda
+#### Activate your conda environement mini conda
+```bash 
+conda activate mini-rag-app 
+```
 
 #### Install python packages
 
